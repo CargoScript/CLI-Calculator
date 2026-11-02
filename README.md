@@ -35,7 +35,7 @@ This project demonstrates the step-by-step evolution from a basic script to an a
 2. Run the script via your terminal:
 
 ```bash
-python "Erweiterter Taschenrechner.py"
+python calculator_v3.py
 
 
 
